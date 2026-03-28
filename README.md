@@ -84,24 +84,5 @@ Set up professional profiles on the following platforms:
 \- Created a 'Stay Safe Online' prevention checklist tailored for Indian college students  
 \- Reporting resource: \[cybercrime.gov.in\](https://cybercrime.gov.in) | Helpline: \*\*1930\*\*
 
-\---
-
-\#\# 🔗 Useful Links  
-| Canva | \[canva.com\](https://canva.com) |  
-| GitHub | \[github.com\](https://github.com) |  
-| LinkedIn | \[linkedin.com\](https://linkedin.com) |  
-| HackerRank | \[hackerrank.com\](https://hackerrank.com) |  
-| Google Forms | \[forms.google.com\](https://forms.google.com) |  
-| Cyber Crime Portal | \[cybercrime.gov.in\](https://cybercrime.gov.in) |  
-| Cyber Crime Helpline | 1930 (24×7) |
-
-\---
-
-\#\# 📄 Project Report
-
-The full written report is available in the \`report/\` folder:  
-👉 \[\`report/Project\_Report.pdf\`\](./report/Project\_Report.pdf)
-
-\---
 
 \*Submitted for CSE0001 – Digital Literacy | VIT Bhopal University\*  
